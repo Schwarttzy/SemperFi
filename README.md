@@ -26,7 +26,7 @@ To add a Semper Fi to your WordPress installation, follow these basic steps:
 
 		3. Follow the instructions below for selecting the Semper Fi.
 
-	To select Semper Fi for your site
+To set Semper Fi as the theme for your site
 
 		1. Log in to the WordPress Administration Panel.
 
@@ -34,14 +34,13 @@ To add a Semper Fi to your WordPress installation, follow these basic steps:
 
 		3. From the Available Themes section, click on the Theme title (or Theme screenshot) for Semper Fi to activate.
 
-		4. A preview of the Theme will be shown.
+		4. A preview of the Theme will be shown in the Customizer.
 
-		5. To activate the Theme click the Activate "Semper Fi" link in the top right.
+		5. Take time to customize all the features to your personal liking.
 
-		6. After which Semper Fi will automatically redirect you to the Theme Options Page for further customization for your theme.
+		6. Finally, activate the theme by clicking the "Activate Semper Fi" link in the top left.
 
-
-Your selection should immediately become active.
+Semper Fi is now active on your website, feel free to go back into the Customizer and change any settings at any time. Don't for get to save your changes.
 
 Note: If the Theme preview is blank, do not activate the new Theme without investigating further. Your site may not be displayed correctly, otherwise.
 
