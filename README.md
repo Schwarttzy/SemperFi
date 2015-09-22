@@ -20,25 +20,25 @@ Dedicate to my Grandfather's Bravery in WWII, Semper Fi has a high quality newsp
 
 To add a Semper Fi to your WordPress installation, follow these basic steps:
 
-    1. Download the Semper Fi archive and extract the files it contains. You need to preserve the directory structure in the archive when extracting these files. Using an FRP cliend to access your host web server, create a directory to save the theme Semper Fi in the wp-content/themes directory provided by WordPress. For Example: wp-content/themes/semperfi
+1. Download the Semper Fi archive and extract the files it contains. You need to preserve the directory structure in the archive when extracting these files. Using an FRP cliend to access your host web server, create a directory to save the theme Semper Fi in the wp-content/themes directory provided by WordPress. For Example: wp-content/themes/semperfi
     
-    2. Upload the Semper Fi files to the new directory on your host server.
+2. Upload the Semper Fi files to the new directory on your host server.
 
-    3. Follow the instructions below for selecting the Semper Fi.
+3. Follow the instructions below for selecting the Semper Fi.
 
 To set Semper Fi as the theme for your site
 
-	1. Log in to the WordPress Administration Panel.
+1. Log in to the WordPress Administration Panel.
 
-	2. Select the Appearance panel, then Themes.
+2. Select the Appearance panel, then Themes.
 
-	3. From the Available Themes section, click on the Theme title (or Theme screenshot) for Semper Fi to activate.
+3. From the Available Themes section, click on the Theme title (or Theme screenshot) for Semper Fi to activate.
 
-	4. A preview of the Theme will be shown in the Customizer.
+4. A preview of the Theme will be shown in the Customizer.
 
-	5. Take time to customize all the features to your personal liking.
+5. Take time to customize all the features to your personal liking.
 
-	6. Finally, activate the theme by clicking the "Activate Semper Fi" link in the top left.
+6. Finally, activate the theme by clicking the "Activate Semper Fi" link in the top left.
 
 Semper Fi is now active on your website, feel free to go back into the Customizer and change any settings at any time. Don't for get to save your changes.
 
@@ -56,13 +56,13 @@ All Images / Icons in the Theme "Semper Fi" are released under the same GPL (GNU
 
 To customize Semper Fi using the built in options, Semper Fi Should already be active:
 	
-	1. Log in to the WordPress Administration Panel.
+1. Log in to the WordPress Administration Panel.
 
-	2. Select the Appearance panel, then Theme Options.
+2. Select the Appearance panel, then Theme Options.
 
-	3. A page explaining the options will be displayed.
+3. A page explaining the options will be displayed.
 
-	4. Click save to finilize your selections.
+4. Click save to finilize your selections.
 
 Your selection should immediately become active.
 
