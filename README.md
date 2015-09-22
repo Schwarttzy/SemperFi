@@ -1,22 +1,22 @@
-= Semper Fi Information =
+	= Semper Fi Information =
 
-	Theme URI: http://schwarttzy.com/shop/semper-fi/
+Theme URI: http://schwarttzy.com/shop/semper-fi/
 
-	Author: Eric Schwarz
+Author: Eric Schwarz
 
-	Author URI: http://schwarttzy.com/about-2/
+Author URI: http://schwarttzy.com/about-2/
 
-	Copyright (C) 2003-2012 Eric Schwarz - Schwarttzy
+Copyright (C) 2003-2012 Eric Schwarz - Schwarttzy
 
-	License: GNU General Public License, version 3 (AGPLv3)
+License: GNU General Public License, version 3 (AGPLv3)
 
-	License URI: http://opensource.org/licenses/AGPL-3.0
+License URI: http://opensource.org/licenses/AGPL-3.0
 
-== About Semper Fi ==
+	== About Semper Fi ==
 
-	Dedicate to my Grandfather's Bravery in WWII, Semper Fi has a high quality newspaper feeling to it. From hidden luxurious floral patterns, to images that create the nostalgia of finely crafted paper, incredibly detailed shadowing, but most importantly, Semper Fi has the ability to respond to any width screen. From 300 pixels wide, all the way to 1920 and beyond, images, galleries, quotes, text, and titles all move fluidly to respond to any thing you through at it. (More Updates to come soon)
+Dedicate to my Grandfather's Bravery in WWII, Semper Fi has a high quality newspaper feeling to it. From hidden luxurious floral patterns, to images that create the nostalgia of finely crafted paper, incredibly detailed shadowing, but most importantly, Semper Fi has the ability to respond to any width screen. From 300 pixels wide, all the way to 1920 and beyond, images, galleries, quotes, text, and titles all move fluidly to respond to any thing you through at it.
 
-== Installing Semper Fi Manually (FTP) ==
+	== Installing Semper Fi Manually (FTP) ==
 
 To add a Semper Fi to your WordPress installation, follow these basic steps:
 
@@ -39,6 +39,7 @@ To add a Semper Fi to your WordPress installation, follow these basic steps:
 		5. To activate the Theme click the Activate "Semper Fi" link in the top right.
 
 		6. After which Semper Fi will automatically redirect you to the Theme Options Page for further customization for your theme.
+
 
 Your selection should immediately become active.
 
