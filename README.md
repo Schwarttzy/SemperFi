@@ -56,21 +56,18 @@ All Images / Icons in the Theme "Semper Fi" are released under the same GPL (GNU
 == Customizing Semper Fi ==
 
 To customize Semper Fi using the built in options, Semper Fi Should already be active:
-		
+	
 		1. Log in to the WordPress Administration Panel.
-
 		2. Select the Appearance panel, then Theme Options.
-
 		3. A page explaining the options will be displayed.
-
 		4. Click save to finilize your selections.
 
-	Your selection should immediately become active.
+Your selection should immediately become active.
 
-== Permium Features on Semper Fi ==
+	== Permium Features on Semper Fi ==
 
 Semper Fi is considered an "Up-Vert Theme," meaning that it is first and foremost a completely free theme, but with that said some of the additional features remain unusable until you purchase the theme. I currently charge a one-time fee for unlimited access to free updates and downloads forever. It is simple, clean, and easy to "Active" your theme for life. Purchase "Semper Fi" by going to the http address http://schwarttzy.com/shop/semper-fi/ and add SemperFi to the cart and checkout normally. Once you have successful purchased the theme, look for an Email that is from "Schwarttzy.com," not from PayPal, and in that email is Transaction Code, copy and paste the Transaction Code in the Activation field below and you'll have completed everything you need to do.
 
-== Contact & Issues for Semper Fi ==
+	== Contact & Issues for Semper Fi ==
 
 If you need to contact me, have questions, or have any problems with the Theme you can contact me by visiting this link http://schwarttzy.com/contact-me/
