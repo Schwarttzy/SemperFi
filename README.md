@@ -6,7 +6,7 @@ Author: Eric Schwarz
 
 Author URI: http://schwarttzy.com/about-2/
 
-Copyright (C) 2003-2012 Eric Schwarz - Schwarttzy
+Copyright (C) 2003-2015 Eric Schwarz - Schwarttzy
 
 License: GNU General Public License, version 3 (AGPLv3)
 
