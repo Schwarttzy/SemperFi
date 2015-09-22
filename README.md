@@ -18,7 +18,7 @@
 
 == Installing Semper Fi Manually (FTP) ==
 
-	To add a Semper Fi to your WordPress installation, follow these basic steps:
+To add a Semper Fi to your WordPress installation, follow these basic steps:
 
 		1. Download the Semper Fi archive and extract the files it contains. You need to preserve the directory structure in the archive when extracting these files. Using an FTP client to access your host web server, create a directory to save Semper Fi in the wp-content/themes directory provided by WordPress. For example: wp-content/themes/semperfi
     
@@ -40,21 +40,21 @@
 
 		6. After which Semper Fi will automatically redirect you to the Theme Options Page for further customization for your theme.
 
-	Your selection should immediately become active.
+Your selection should immediately become active.
 
-	Note: If the Theme preview is blank, do not activate the new Theme without investigating further. Your site may not be displayed correctly, otherwise.
+Note: If the Theme preview is blank, do not activate the new Theme without investigating further. Your site may not be displayed correctly, otherwise.
 
 == About the Menu on Semper Fi ==
 
-	Semper Fi currently only supports up to two level menu system right now. In the future this should change.
+Semper Fi currently only supports up to two level menu system right now. In the future this should change.
 
 == Images / Icons Licensing on Semper Fi ==
 
-	All Images / Icons in the Theme "Semper Fi" are released under the same GPL (GNU General Public License, version 3 (AGPLv3)) license that the theme is released.
+All Images / Icons in the Theme "Semper Fi" are released under the same GPL (GNU General Public License, version 3 (AGPLv3)) license that the theme is released.
 
 == Customizing Semper Fi ==
 
-	To customize Semper Fi using the built in options, Semper Fi Should already be active:
+To customize Semper Fi using the built in options, Semper Fi Should already be active:
 		
 		1. Log in to the WordPress Administration Panel.
 
@@ -68,8 +68,8 @@
 
 == Permium Features on Semper Fi ==
 
-	Semper Fi is considered an "Up-Vert Theme," meaning that it is first and foremost a completely free theme, but with that said some of the additional features remain unusable until you purchase the theme. I currently charge a one-time fee for unlimited access to free updates and downloads forever. It is simple, clean, and easy to "Active" your theme for life. Purchase "Semper Fi" by going to the http address http://schwarttzy.com/shop/semper-fi/ and add SemperFi to the cart and checkout normally. Once you have successful purchased the theme, look for an Email that is from "Schwarttzy.com," not from PayPal, and in that email is Transaction Code, copy and paste the Transaction Code in the Activation field below and you'll have completed everything you need to do.
+Semper Fi is considered an "Up-Vert Theme," meaning that it is first and foremost a completely free theme, but with that said some of the additional features remain unusable until you purchase the theme. I currently charge a one-time fee for unlimited access to free updates and downloads forever. It is simple, clean, and easy to "Active" your theme for life. Purchase "Semper Fi" by going to the http address http://schwarttzy.com/shop/semper-fi/ and add SemperFi to the cart and checkout normally. Once you have successful purchased the theme, look for an Email that is from "Schwarttzy.com," not from PayPal, and in that email is Transaction Code, copy and paste the Transaction Code in the Activation field below and you'll have completed everything you need to do.
 
 == Contact & Issues for Semper Fi ==
 
-	If you need to contact me, have questions, or have any problems with the Theme you can contact me by visiting this link http://schwarttzy.com/contact-me/
+If you need to contact me, have questions, or have any problems with the Theme you can contact me by visiting this link http://schwarttzy.com/contact-me/
