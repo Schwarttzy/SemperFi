@@ -20,7 +20,7 @@ Dedicate to my Grandfather's Bravery in WWII, Semper Fi has a high quality newsp
 
 To add a Semper Fi to your WordPress installation, follow these basic steps:
 
-		1. Download the Semper Fi archive and extract the files it contains. You need to preserve the directory structure in the archive when extracting these files. Using an FTP client to access your host web server, create a directory to save Semper Fi in the wp-content/themes directory provided by WordPress. For example: wp-content/themes/semperfi
+		1. Download the Semper Fi archive and extract the files it contains. You need to preserve the directory structure in the archive when extracting these files. Using an FRP cliend to access your host web server, create a directory to save the theme Semper Fi in the wp-content/themes directory provided by WordPress. For Example: wp-content/themes/semperfi
     
 		2. Upload the Semper Fi files to the new directory on your host server.
 
