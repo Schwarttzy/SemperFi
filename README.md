@@ -44,25 +44,23 @@ Semper Fi is now active on your website, feel free to go back into the Customize
 
 Note: If the Theme preview is blank, do not activate the new Theme without investigating further. Your site may not be displayed correctly, otherwise.
 
-== About the Menu on Semper Fi ==
+	== About the Menu on Semper Fi ==
 
 Semper Fi currently only supports up to two level menu system right now. In the future this should change.
 
-== Images / Icons Licensing on Semper Fi ==
+	== Images / Icons Licensing on Semper Fi ==
 
 All Images / Icons in the Theme "Semper Fi" are released under the same GPL (GNU General Public License, version 3 (AGPLv3)) license that the theme is released.
 
-== Customizing Semper Fi ==
+	== Customizing Semper Fi ==
 
 To customize Semper Fi using the built in options, Semper Fi Should already be active:
 	
 1. Log in to the WordPress Administration Panel.
 
-2. Select the Appearance panel, then Theme Options.
+2. Hover the mouse over the Appearance panel, then click Customize.
 
-3. A page explaining the options will be displayed.
-
-4. Click save to finilize your selections.
+4. Finilize your customization to Semper Fi by click on the "Save & Publish" blue button in the top left corner of the screen.
 
 Your selection should immediately become active.
 
